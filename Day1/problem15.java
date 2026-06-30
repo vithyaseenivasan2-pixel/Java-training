@@ -7,7 +7,7 @@ public class problem15 {
         System.out.println("2. Constructor");
     }
  public static void main(String[] args) {
-       problem15 f = new problem15();
+       problem15 p = new problem15();
         System.out.println("3. Main Method");
     }
 }
